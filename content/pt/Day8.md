@@ -6,7 +6,7 @@ Os seguintes tipos do Python são suportados: int, float, date, time, and dateti
 
 ## O que estamos construindo?
 
-Uma palicação simples, que mostras as diversas maneiras de como aceitar a entrada do usuários com o controle deslizante (slider).
+Uma aplicação simples, que mostras as diversas maneiras de como aceitar a entrada do usuários com o controle deslizante (slider).
 
 Fluxo da aplicação:
 1. Usuário seleciona o valor ajustando controle deslizante (slider). 
@@ -64,7 +64,7 @@ st.write("Início:", start_time)
 ```
 
 ## Explicação linha por linha
-A primeira coisa a fazer quando estiver criando uma aplicação Strealit é importar a biblioteca `streamlit` como `st`:
+A primeira coisa a fazer quando estiver criando uma aplicação Streamlit é importar a biblioteca `streamlit` como `st`:
 ```python
 import streamlit as st
 from datetime import time, datetime
