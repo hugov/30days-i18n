@@ -58,7 +58,7 @@ st.write(c)
 ```
 
 ## Explicação linha por linha
-A primeira coisa a fazer quando estiver criando uma aplicação Strealit é importar a biblioteca `streamlit` como `st`:
+A primeira coisa a fazer quando estiver criando uma aplicação Streamlit é importar a biblioteca `streamlit` como `st`:
 ```python
 import streamlit as st
 ```
@@ -75,7 +75,7 @@ st.write('Hello, *World!* :sunglasses:')
 ```
 
 **Exemplo 2**
-Como mencionado acima, também podemos exibir outros foramdos, como números:
+Como mencionado acima, também podemos exibir outros formatos, como números:
 ```python
 st.write(1234)
 ```
@@ -113,14 +113,14 @@ Depois de feito o deploy a aplicação ficará semelhante a mostrada no link aba
 
 ## Próximos passos
 
-Agora que você crirou a aplicação Streamlit localmente, é hora de fazer deploy para o 
+Agora que você criou a aplicação Streamlit localmente, é hora de fazer deploy para o 
 [Streamlit Cloud](https://streamlit.io/cloud) como será explicando em breve em um novo desafio.
 
-Porque essa éa  primeira semana do desafio, nós estamos provendo o código fonte completo (nas caixas de código acima) e solução (a aplicação de exemplo) linkada nesta página. 
+Porque essa é a  primeira semana do desafio, nós estamos provendo o código fonte completo (nas caixas de código acima) e solução (a aplicação de exemplo) linkada nesta página. 
 
 Mais adiante, nos próximos desafios, recomendamos que você primeiro tente implementar a aplicação Streamlit sozinho.
 
-Não se preocupe, caso não consiha seguir adiante você sempre pode dar uma consultada na solução.
+Não se preocupe, caso não consiga seguir adiante você sempre pode dar uma consultada na solução.
 
 ## Leitura complementar
 Além do [`st.write`](https://docs.streamlit.io/library/api-reference/write-magic/st.write), você pode explorar outras maneiras de exibir texto:
