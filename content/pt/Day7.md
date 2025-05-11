@@ -11,7 +11,6 @@ Você pode criar sua conta no [Streamlit Cloud](https://streamlit.io/cloud) simp
 ## Fazendo deploy da sua aplicação Streamlit
 
 Para fazer deploy de uma aplicação Streamlit, siga os seguintes passos:
-To deploy a Streamlit app, do the following:
 1. Faça login com sua conta GitHub ou Gmail
 2. Escolha um reposiório, branch e arquivo
 3. Clique em Deploy
