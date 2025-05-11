@@ -62,14 +62,14 @@ st.write('Goodbye')
 
 ## Próximos passos
 
-Agora que você crirou a aplicação Streamlit localmente, é hora de fazer deploy para o 
+Agora que você criou a aplicação Streamlit localmente, é hora de fazer deploy para o 
 [Streamlit Cloud](https://streamlit.io/cloud) como será explicando em breve em um novo desafio.
 
-Porque essa éa  primeira semana do desafio, nós estamos provendo o código fonte completo (nas caixas de código acima) e solução (a aplicação de exemplo) linkada nesta página. 
+Porque essa é a  primeira semana do desafio, nós estamos provendo o código fonte completo (nas caixas de código acima) e solução (a aplicação de exemplo) linkada nesta página. 
 
 Mais adiante, nos próximos desafios, recomendamos que você primeiro tente implementar a aplicação Streamlit sozinho.
 
-Não se preocupe, caso não consiha seguir adiante você sempre pode dar uma consultada na solução.
+Não se preocupe, caso não consiga seguir adiante você sempre pode dar uma consultada na solução.
 
 ## Referências
 Leia sobre o [`st.button`](https://docs.streamlit.io/library/api-reference/widgets/st.button) na documentação da API do Strealit
