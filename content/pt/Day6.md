@@ -1,10 +1,10 @@
-# Subindo sua aplicação Strealit para o Github
+# Subindo sua aplicação Streamlit para o Github
 
 ## GitHub
 
-Git é um softearw para manter o controle de todas as mudanças feitas em um código (ex: controlar versões). GitHub é um serviço de hospedagem de repositórios Git, que torna os dados e código disponíveis publicamente na internet, isso permite a colcaboração entre times e permite também que outras pessoas possam contribuir com o repositório.
+Git é um software para manter o controle de todas as mudanças feitas em um código (ex: controlar versões). GitHub é um serviço de hospedagem de repositórios Git, que torna os dados e código disponíveis publicamente na internet, isso permite a colaboração entre times e permite também que outras pessoas possam contribuir com o repositório.
 
-Hospedando sua aplicação Strealimit no GitHub permitirá o deploy delas no Streamlit Cloud (próximo desafio)
+Hospedando sua aplicação Streamlit no GitHub permitirá o deploy delas no Streamlit Cloud (próximo desafio)
 
 ## Conta no GitHub
 
